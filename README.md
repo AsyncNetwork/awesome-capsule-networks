@@ -32,6 +32,8 @@ Your feedback and contributions are always welcome!
   - [PyTorch](#em-routing-pytorch)
   - [TensorFlow](#em-routing-tensorflow)  
 - [Other resources](#other-resources)  
+- [Applications](#applications)
+  - [Seismic](#seismic)
 - [License](#license)
 
 ## Papers
@@ -144,6 +146,11 @@ Your feedback and contributions are always welcome!
 - [Will capsule networks replace neural networks?](https://www.quora.com/Will-capsule-networks-replace-neural-networks) - A question discussed on Quora
 - [Capsule Networks HW](https://github.com/vkantor/Data_Mining_in_Action_2018_Spring/blob/master/trends/data_2/CapsuleNetwork_HW.ipynb) - Homework assignwork in a Python Notebook format
 - [CapsNet-Tensorflow](https://gitter.im/CapsNet-Tensorflow/Lobby) - CapsNet-Tensorflow's gitter.im group
+
+## Applications
+
+### Seismic
+- [CapsPhase](https://github.com/omarmohamed15/CapsPhase)
 
 ## License
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
